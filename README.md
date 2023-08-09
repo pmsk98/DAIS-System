@@ -1,4 +1,4 @@
-# A Novel Trading System for the Stock Market using Deep Q Network Action and Instance Selection
+![DAIS Trading singal_box 추가](https://github.com/pmsk98/DAIS-System/assets/45275607/8328ff12-c481-4acc-8f13-a360921931f0)# A Novel Trading System for the Stock Market using Deep Q Network Action and Instance Selection
 
 
 ## Env setting (Local)
@@ -19,10 +19,13 @@ python main.py --mode train --ver v3 --name 005930 --stock_code 005930 --rl_meth
 ```
 
 ### 2. Instance Selection 
-- Using [SAHI](https://github.com/obss/sahi) (Slicing Aided Hyper Inference)
-- But... very bad performance :(
-- Need to explore other methods
+- Run Instance Selection with Machine Learning.py
+
+### 3. Evaluation 
+- Run Instance Selection Result.py
+  
 ## Study result
-### Glomerulus segmentation (HuBMAP Dataset)
-![image](https://github.com/SCH-YcHan/Glomer/assets/113504815/14bd08fd-62c7-4097-a3d6-130d00584bf2)
-![image](https://github.com/SCH-YcHan/Glomer/assets/113504815/138dc0df-81f9-4515-8b53-00c4fd4a8c8f)
+### DAIS System Trading signal 
+![DAIS Trading singal_box 추가](https://github.com/pmsk98/DAIS-System/assets/45275607/c0bd0487-b12f-412e-b3ab-5a94f6a7d88f)
+![instance_selection_payoff_ratio_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/7b19aebf-3293-4fdd-8942-3a771cb6be85)
+![instance_selection_profit_factor_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/0f367ab8-8f8f-4925-a206-ed5cc76c0b01)
