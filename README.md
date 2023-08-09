@@ -4,8 +4,10 @@
 OS: Windows 10 Pro
 CPU: Intel(R) Xeon(R) W-2225 CPU
 GPU: NVIDIA GeForce RTX 3060 Ti
-CUDA version: 11.7
-CuDNN version: 8.4.0
+CUDA version: 11.2
+CuDNN version: 8.1.0
+PyTorch 1.10.1
+Tensorflow 2.7.0
 Workstation: Anaconda3
 ```
 
