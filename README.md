@@ -15,7 +15,7 @@ Workstation: Anaconda3
 ### 1. Reinforcement Learning 
 #### Example.
 ```
-python main.py --mode train --ver v3 --name 005930 --stock_code 005930 --rl_method a2c --net dnn --start_date 20180101 --end_date 20191231
+python main.py --mode train --ver v5 --name 005930 --stock_code 005930 --rl_method dqn --net dnn --start_date 20180101 --end_date 20191231
 ```
 ##### DQN Reward Convergence
 ![DQN_Reward figure](https://github.com/pmsk98/DAIS-System/assets/45275607/07cce8b3-3917-4b60-92e3-d064d864ceda)
