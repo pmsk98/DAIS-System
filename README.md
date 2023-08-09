@@ -1,4 +1,4 @@
-
+# A Novel Trading System for the Stock Market using Deep Q-Network Action and Instance Selection
 ## Env setting (Local)
 ```
 OS: Windows 10 Pro
