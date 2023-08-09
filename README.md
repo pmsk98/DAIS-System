@@ -16,7 +16,8 @@ Workstation: Anaconda3
 python main.py --mode train --ver v3 --name 005930 --stock_code 005930 --rl_method a2c --net dnn --start_date 20180101 --end_date 20191231
 ```
 ##### DQN Reward Convergence
-![DQN_Reward figure](https://github.com/pmsk98/DAIS-System/assets/45275607/f8a5dbb1-0a0f-4812-92ae-90dd439ab51e)
+![DQN_Reward figure](https://github.com/pmsk98/DAIS-System/assets/45275607/07cce8b3-3917-4b60-92e3-d064d864ceda)
+
 
 ### 2. Instance Selection 
 - Run Instance Selection with Machine Learning.py
@@ -26,6 +27,11 @@ python main.py --mode train --ver v3 --name 005930 --stock_code 005930 --rl_meth
   
 ## Study result
 ### DAIS System Trading signal 
-![DAIS Trading singal_box 추가](https://github.com/pmsk98/DAIS-System/assets/45275607/c0bd0487-b12f-412e-b3ab-5a94f6a7d88f)
-![instance_selection_payoff_ratio_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/7b19aebf-3293-4fdd-8942-3a771cb6be85)
-![instance_selection_profit_factor_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/0f367ab8-8f8f-4925-a206-ed5cc76c0b01)
+![DAIS Trading singal_box 추가](https://github.com/pmsk98/DAIS-System/assets/45275607/27ec4804-d80b-40ed-babe-1d951ffbc2bd)
+
+### DAIS System Boxplot (Payoff ratio & Profit Factor)
+#### Payoff ratio
+![instance_selection_payoff_ratio_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/7ac30e3a-d02d-4e6d-a5d0-9258e58d34ee)
+#### Profit Factor
+
+
