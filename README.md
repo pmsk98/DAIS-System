@@ -33,5 +33,6 @@ python main.py --mode train --ver v3 --name 005930 --stock_code 005930 --rl_meth
 #### Payoff ratio
 ![instance_selection_payoff_ratio_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/7ac30e3a-d02d-4e6d-a5d0-9258e58d34ee)
 #### Profit Factor
+![instance_selection_profit_factor_boxplot](https://github.com/pmsk98/DAIS-System/assets/45275607/b9807162-0836-4ee6-93c4-9ea21b8c7764)
 
 
