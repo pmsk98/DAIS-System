@@ -1,5 +1,3 @@
-![DAIS Trading singal_box 추가](https://github.com/pmsk98/DAIS-System/assets/45275607/8328ff12-c481-4acc-8f13-a360921931f0)# A Novel Trading System for the Stock Market using Deep Q Network Action and Instance Selection
-
 
 ## Env setting (Local)
 ```
