@@ -19,6 +19,7 @@ class Agent:
     ACTION_SELL = 1  # 매도
     ACTION_HOLD = 2  # 관망
     # 인공 신경망에서 확률을 구할 행동들
+    #
     ACTIONS = [ACTION_BUY, ACTION_SELL,ACTION_HOLD]
     NUM_ACTIONS = len(ACTIONS)  # 인공 신경망에서 고려할 출력값의 개수
 
